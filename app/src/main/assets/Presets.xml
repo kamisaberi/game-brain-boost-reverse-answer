@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Presets>
+    <Preset id="0" title="linearFive">
+        <Views>
+            <View attrib="align_parent_start:true,align_parent_top:true,width:100,height:100"
+                  id="0"/>
+            <View
+                attrib="align_parent_top:true,margin_start:12,margin_top:23,to_end_of:0,width:100,height:100"
+                id="1"/>
+            <View attrib="align_bottom:1,center_horizontal:true,width:100,height:100" id="2"/>
+            <View
+                attrib="align_parent_bottom:true,align_start:2,margin_bottom:23,width:100,height:100"
+                id="3"/>
+            <View
+                attrib="align_parent_end:true,center_vertical:true,margin_end:45,width:150,height:150"
+                id="4"/>
+        </Views>
+    </Preset>
+
+    <Preset id="1" title="FiveLine">
+        <Views>
+            <View
+                attrib="align_parent_start:true,align_parent_top:true,height:100,margin_start:33,margin_top:28,width:100"
+                id="0"/>
+            <View attrib="width:125,height:125,align_top:0,center_horizontal:true" id="1"/>
+            <View
+                attrib="below:1,align_parent_bottom:true,margin_bottom:50,width:100,height:100,to_start_of:1"
+                id="2"/>
+            <View
+                attrib="width:100,height:100,align_parent_bottom:true,align_start:0,margin_bottom:25"
+                id="3"/>
+            <View
+                attrib="width:100,height:100,align_top:3,align_parent_bottom:true,align_start:1,margin_start:43"
+                id="4"/>
+            <View attrib="width:100,height:100,align_bottom:1,to_end_of:4,margin_bottom:30" id="5"/>
+            <View
+                attrib="align_parent_bottom:true,margin_bottom:30,width:150,height:150,align_start:5,margin_start:30"
+                id="6"/>
+        </Views>
+    </Preset>
+
+
+    <Preset id="2" title="FiveLine">
+        <Views>
+            <View
+                attrib="width:100,height:100,align_parent_bottom:true,align_parent_start:true,gravity:center,margin_bottom:30,margin_start:27"
+                id="0"/>
+            <View
+                attrib="width:95,height:95,align_parent_end:true,align_parent_top:true,gravity:center,margin_end:27,margin_top:21"
+                id="1"/>
+            <View
+                attrib="width:150,height:150,align_top:1,center_horizontal:true,gravity:center,margin_top:16"
+                id="2"/>
+            <View
+                attrib="width:125,height:125,align_parent_bottom:true,gravity:center,margin_bottom:16,margin_end:33,to_start_of:1"
+                id="3"/>
+            <View attrib="width:90,height:90,align_start:0,align_top:1,gravity:center" id="4"/>
+            <View
+                attrib="width:125,height:125,align_bottom:0,gravity:center,margin_bottom:15,margin_start:26,to_end_of:4,align_parent_bottom:true"
+                id="5"/>
+            <View
+                attrib="width:75,height:75,align_end:1,align_top:3,gravity:center,align_parent_end:true,align_parent_bottom:true,margin_bottom:30,margin_right:20"
+                id="6"/>
+            <View
+                attrib="width:75,height:75,align_bottom:4,align_parent_right:true,margin_right:150,align_parent_top:true"
+                id="7"/>
+        </Views>
+    </Preset>
+
+
+    <Preset id="3" title="FiveLine">
+        <Views>
+            <View
+                attrib="width:100,height:100,align_parent_start:true,align_parent_top:true,margin_start:44,margin_top:27"
+                id="0"/>
+            <View
+                attrib="width:100,height:100,align_parent_bottom:true,align_parent_left:true,margin_bottom:47,margin_start:120,to_end_of:0"
+                id="1"/>
+            <View
+                attrib="width:120,height:120,center_horizontal:true,margin_start:63,margin_top:20,to_end_of:1"
+                id="2"/>
+            <View
+                attrib="width:80,height:80,align_parent_right:true,margin_right:200,align_parent_top:true,margin_top:170"
+                id="3"/>
+            <View
+                attrib="width:100,height:100,align_parent_right:true,margin_right:100,align_parent_top:true,margin_top:50"
+                id="4"/>
+        </Views>
+    </Preset>
+
+    <Preset id="4" title="Five">
+        <Views>
+            <View attrib="width:100,height:100,center_in_parent:true" id="0"/>
+            <View
+                attrib="align_parent_left:true,center_vertical:true,height:100,margin_left:75,width:100"
+                id="1"/>
+            <View
+                attrib="align_parent_right:true,center_vertical:true,height:100,margin_right:75,width:100"
+                id="2"/>
+            <View
+                attrib="align_parent_top:true,center_horizontal:true,height:100,margin_top:5,width:100"
+                id="3"/>
+            <View
+                attrib="align_parent_bottom:true,center_horizontal:true,height:100,margin_bottom:5,width:100"
+                id="4"/>
+        </Views>
+    </Preset>
+
+    <Preset id="5" title="Five">
+        <Views>
+            <View attrib="width:100,height:100,center_in_parent:true" id="0"/>
+            <View
+                attrib="align_parent_left:true,center_vertical:true,height:100,margin_left:75,width:100"
+                id="1"/>
+            <View
+                attrib="align_parent_right:true,center_vertical:true,height:100,margin_right:75,width:100"
+                id="2"/>
+        </Views>
+    </Preset>
+    <Preset id="6" title="Five">
+        <Views>
+            <View attrib="width:100,height:100,center_in_parent:true" id="0"/>
+            <View
+                attrib="align_parent_top:true,center_horizontal:true,height:100,margin_top:5,width:100"
+                id="1"/>
+            <View
+                attrib="align_parent_bottom:true,center_horizontal:true,height:100,margin_bottom:5,width:100"
+                id="2"/>
+        </Views>
+    </Preset>
+
+    <Preset id="7" title="Five">
+        <Views>
+            <View attrib="width:100,height:100,center_in_parent:true" id="0"/>
+            <View
+                attrib="align_parent_right:true,center_vertical:true,height:100,margin_right:75,width:100"
+                id="1"/>
+            <View
+                attrib="align_parent_bottom:true,center_horizontal:true,height:100,margin_bottom:5,width:100"
+                id="2"/>
+        </Views>
+    </Preset>
+
+    <Preset id="8" title="Five">
+        <Views>
+            <View
+                attrib="align_parent_left:true,center_vertical:true,height:100,margin_left:75,width:100"
+                id="1"/>
+            <View
+                attrib="align_parent_right:true,center_vertical:true,height:100,margin_right:75,width:100"
+                id="2"/>
+            <View
+                attrib="align_parent_top:true,center_horizontal:true,height:100,margin_top:5,width:100"
+                id="3"/>
+            <View
+                attrib="align_parent_bottom:true,center_horizontal:true,height:100,margin_bottom:5,width:100"
+                id="4"/>
+        </Views>
+    </Preset>
+
+    <Preset id="9" title="Five">
+        <Views>
+            <View
+                attrib="align_parent_left:true,center_vertical:true,height:100,margin_left:75,width:100"
+                id="1"/>
+            <View
+                attrib="align_parent_right:true,center_vertical:true,height:100,margin_right:75,width:100"
+                id="2"/>
+        </Views>
+    </Preset>
+
+    <Preset id="10" title="Five">
+        <Views>
+            <View
+                attrib="align_parent_top:true,center_horizontal:true,height:100,margin_top:5,width:100"
+                id="3"/>
+            <View
+                attrib="align_parent_bottom:true,center_horizontal:true,height:100,margin_bottom:5,width:100"
+                id="4"/>
+        </Views>
+    </Preset>
+
+    <Preset id="11" title="Five">
+        <Views>
+            <View
+                attrib="align_parent_right:true,center_vertical:true,height:80,margin_right:75,width:80"
+                id="2"/>
+            <View
+                attrib="align_parent_top:true,center_horizontal:true,height:110,margin_top:5,width:110"
+                id="3"/>
+            <View
+                attrib="align_parent_bottom:true,center_horizontal:true,height:100,margin_bottom:5,width:100"
+                id="4"/>
+        </Views>
+    </Preset>
+
+    <Preset id="12" title="Five">
+        <Views>
+            <View
+                attrib="align_parent_left:true,center_vertical:true,height:125,margin_left:75,width:125"
+                id="1"/>
+            <View
+                attrib="align_parent_top:true,center_horizontal:true,height:100,margin_top:5,width:100"
+                id="3"/>
+            <View
+                attrib="align_parent_bottom:true,center_horizontal:true,height:100,margin_bottom:5,width:100"
+                id="4"/>
+        </Views>
+    </Preset>
+
+
+    <Preset id="13" title="Five">
+        <View
+            attrib="align_parent_bottom:true,align_parent_start:true,height:110,margin_bottom:21,margin_left:100,margin_start:22,width:110"
+            id="0"/>
+        <View
+            attrib="align_parent_right:true,align_parent_top:true,height:80,margin_left:100,margin_right:38,margin_top:30,width:80"
+            id="1"/>
+        <View
+            attrib="center_horizontal:true,center_vertical:true,height:100,width:100"
+            id="2"/>
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:20,width:75"
+            id="3"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_left:100,width:75"
+            id="4"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:60,margin_bottom:200,margin_right:200,width:60"
+            id="5"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:65,margin_bottom:10,margin_right:300,width:65"
+            id="6"/>
+        <View
+            attrib="align_parent_start:true,align_parent_top:true,height:85,width:85"
+            id="7"/>
+    </Preset>
+    <Preset id="14" title="Five">
+        <View
+            attrib="align_parent_bottom:true,align_parent_start:true,height:110,margin_bottom:21,margin_left:100,margin_start:22,width:110"
+            id="0"/>
+        <View
+            attrib="align_parent_right:true,align_parent_top:true,height:80,margin_left:100,margin_right:38,margin_top:30,width:80"
+            id="1"/>
+        <View
+            attrib="center_horizontal:true,center_vertical:true,height:100,width:100"
+            id="2"/>
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:20,width:75"
+            id="3"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_left:100,width:75"
+            id="4"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:60,margin_bottom:200,margin_right:200,width:60"
+            id="5"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:65,margin_bottom:10,margin_right:300,width:65"
+            id="6"/>
+        <View
+            attrib="align_parent_start:true,align_parent_top:true,height:85,width:85"
+            id="7"/>
+        <View
+            attrib="align_parent_left:true,center_vertical:true,height:90,margin_left:150,width:90"
+            id="8"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:70,margin_right:150,width:75"
+            id="9"/>
+    </Preset>
+    <Preset id="15" title="Five">
+        <View
+            attrib="align_parent_bottom:true,align_parent_start:true,height:90,margin_bottom:21,margin_left:100,margin_start:22,width:90"
+            id="0"/>
+        <View
+            attrib="align_parent_right:true,align_parent_top:true,height:80,margin_right:38,margin_top:80,width:80"
+            id="1"/>
+        <View
+            attrib="center_horizontal:true,center_vertical:true,height:80,width:80"
+            id="2"/>
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:100,width:75"
+            id="3"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:60,margin_bottom:120,margin_right:150,width:60"
+            id="4"/>
+        <View
+            attrib="align_parent_start:true,align_parent_top:true,height:85,margin_top:100,width:85"
+            id="5"/>
+    </Preset>
+    <Preset id="16" title="Five">
+        <View
+            attrib="align_parent_bottom:true,align_parent_start:true,height:90,margin_bottom:21,margin_left:100,margin_start:22,width:90"
+            id="0"/>
+        <View
+            attrib="align_parent_right:true,align_parent_top:true,height:80,margin_left:100,margin_right:38,margin_top:30,width:80"
+            id="1"/>
+        <View
+            attrib="align_parent_top:true,center_horizontal:true,height:80,margin_top:50,width:80"
+            id="2"/>
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:100,width:75"
+            id="3"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:60,margin_bottom:100,margin_right:150,width:60"
+            id="4"/>
+        <View
+            attrib="align_parent_start:true,align_parent_top:true,height:85,width:85" id="5"/>
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:80,margin_left:280,margin_top:200,width:80"
+            id="6"/>
+    </Preset>
+    <Preset id="17" title="Five">
+        <View
+            attrib="align_parent_bottom:true,align_parent_start:true,height:90,margin_bottom:21,margin_left:100,margin_start:22,width:90"
+            id="0"/>
+        <View
+            attrib="align_parent_right:true,align_parent_top:true,height:80,margin_left:100,margin_right:38,margin_top:30,width:80"
+            id="1"/>
+        <View
+            attrib="align_parent_top:true,center_horizontal:true,height:80,margin_top:50,width:80"
+            id="2"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:20,width:75"
+            id="3"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:60,margin_bottom:200,margin_right:200,width:60"
+            id="4"/>
+        <View
+            attrib="align_parent_start:true,align_parent_top:true,height:85,width:85" id="5"/>
+        <View
+            attrib="align_parent_left:true,center_vertical:true,height:80,margin_left:180,width:80"
+            id="6"/>
+    </Preset>
+    <Preset id="18" title="Five">
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:20,width:75"
+            id="0"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:20,width:75"
+            id="1"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:65,margin_bottom:50,margin_right:300,width:65"
+            id="2"/>
+        <View attrib="align_parent_start:true,align_parent_top:true,height:85,width:85" id="3"/>
+        <View
+            attrib="align_parent_left:true,center_vertical:true,height:80,margin_left:180,width:80"
+            id="4"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:30,margin_right:170,width:75"
+            id="5"/>
+    </Preset>
+    <Preset id="19" title="Five">
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:20,width:75"
+            id="0"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:20,width:75"
+            id="1"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:60,margin_bottom:200,margin_right:200,width:60"
+            id="2"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:65,margin_bottom:50,margin_right:300,width:65"
+            id="3"/>
+        <View attrib="align_parent_start:true,align_parent_top:true,height:85,width:85" id="4"/>
+        <View
+            attrib="align_parent_left:true,center_vertical:true,height:80,margin_left:180,width:80"
+            id="5"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:30,margin_right:170,width:75"
+            id="6"/>
+    </Preset>
+    <Preset id="20" title="Five">
+        <View
+            attrib="align_parent_bottom:true,align_parent_start:true,height:90,margin_bottom:21,margin_left:100,margin_start:22,width:90"
+            id="0"/>
+        <View
+            attrib="align_parent_right:true,align_parent_top:true,height:80,margin_left:100,margin_right:38,margin_top:30,width:80"
+            id="1"/>
+        <View
+            attrib="align_parent_top:true,center_horizontal:true,height:80,margin_top:50,width:80"
+            id="2"/>
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:20,width:75"
+            id="3"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:20,width:75"
+            id="4"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:60,margin_bottom:200,margin_right:200,width:60"
+            id="5"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:65,margin_bottom:50,margin_right:300,width:65"
+            id="6"/>
+        <View attrib="align_parent_start:true,align_parent_top:true,height:85,width:85" id="7"/>
+        <View
+            attrib="align_parent_left:true,center_vertical:true,height:80,margin_left:180,width:80"
+            id="8"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:30,margin_right:170,width:75"
+            id="9"/>
+    </Preset>
+    <Preset id="21" title="Five">
+        <View
+            attrib="align_parent_bottom:true,align_parent_start:true,height:90,margin_bottom:21,margin_left:100,margin_start:22,width:90"
+            id="0"/>
+        <View
+            attrib="align_parent_right:true,align_parent_top:true,height:80,margin_left:100,margin_right:38,margin_top:30,width:80"
+            id="1"/>
+        <View
+            attrib="align_parent_top:true,center_horizontal:true,height:80,margin_top:50,width:80"
+            id="2"/>
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:20,width:75"
+            id="3"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:20,width:75"
+            id="4"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:60,margin_bottom:200,margin_right:200,width:60"
+            id="5"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:65,margin_bottom:10,margin_right:300,width:65"
+            id="6"/>
+        <View attrib="align_parent_start:true,align_parent_top:true,height:85,width:85" id="7"/>
+        <View
+            attrib="align_parent_left:true,center_vertical:true,height:90,margin_left:150,width:90"
+            id="8"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_bottom:70,margin_right:170,width:75"
+            id="9"/>
+    </Preset>
+    <Preset id="22" title="Five">
+        <View
+            attrib="align_parent_bottom:true,align_parent_start:true,height:110,margin_bottom:21,margin_left:100,margin_start:22,width:110"
+            id="0"/>
+        <View attrib="center_horizontal:true,center_vertical:true,height:100,width:100" id="1"/>
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:20,width:75"
+            id="2"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_left:100,width:75"
+            id="3"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:65,margin_bottom:10,margin_right:300,width:65"
+            id="4"/>
+        <View attrib="align_parent_start:true,align_parent_top:true,height:85,width:85" id="5"/>
+    </Preset>
+    <Preset id="23" title="Five">
+        <View
+            attrib="align_parent_bottom:true,align_parent_start:true,height:110,margin_bottom:21,margin_left:100,margin_start:22,width:110"
+            id="0"/>
+        <View
+            attrib="align_parent_right:true,align_parent_top:true,height:80,margin_left:100,margin_right:38,margin_top:30,width:80"
+            id="1"/>
+        <View attrib="center_horizontal:true,center_vertical:true,height:100,width:100" id="2"/>
+        <View
+            attrib="align_parent_left:true,align_parent_top:true,height:75,margin_left:130,margin_top:20,width:75"
+            id="3"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:75,margin_left:100,width:75"
+            id="4"/>
+        <View
+            attrib="align_parent_bottom:true,align_parent_right:true,height:65,margin_bottom:10,margin_right:300,width:65"
+            id="5"/>
+        <View attrib="align_parent_start:true,align_parent_top:true,height:85,width:85" id="6"/>
+    </Preset>
+
+    <Preset id="24" title="Five">
+        <Views>
+            <View
+                attrib="center_horizontal:true,center_vertical:true,height:125,width:125"
+                id="1"/>
+            <View
+                attrib="align_parent_top:true,align_parent_left:true,height:100,margin_top:30,margin_left:30,width:100"
+                id="3"/>
+            <View
+                attrib="align_parent_bottom:true,align_parent_right:true,height:100,margin_bottom:30,margin_right:30,width:100"
+                id="3"/>
+
+        </Views>
+    </Preset>
+
+    <Preset id="25" title="Five">
+        <Views>
+            <View
+                attrib="center_horizontal:true,center_vertical:true,height:125,width:125"
+                id="1"/>
+            <View
+                attrib="align_parent_bottom:true,align_parent_left:true,height:100,margin_left:30,margin_bottom:30,width:100"
+                id="3"/>
+            <View
+                attrib="align_parent_top:true,align_parent_right:true,height:100,margin_top:30,margin_right:30,width:100"
+                id="3"/>
+        </Views>
+    </Preset>
+
+
+    <Preset id="26" title="Five">
+        <View
+            attrib="width:110,height:110,align_parent_bottom:true,align_parent_start:true,margin_bottom:21,margin_left:100,margin_start:22"
+            id="0"/>
+        <View attrib="width:100,height:100,center_horizontal:true,center_vertical:true" id="1"/>
+        <View
+            attrib="width:75,height:75,align_parent_bottom:true,align_parent_right:true,margin_left:100"
+            id="2"/>
+        <View attrib="width:85,height:85,align_parent_start:true,align_parent_top:true" id="3"/>
+    </Preset>
+    <Preset id="27" title="Five">
+        <View attrib="width:100,height:100,center_horizontal:true,center_vertical:true" id="0"/>
+        <View
+            attrib="width:75,height:75,alignParentLeft:true,align_parent_top:true,margin_left:130,margin_top:20"
+            id="1"/>
+        <View
+            attrib="width:60,height:60,align_parent_bottom:true,align_parent_right:true,margin_bottom:200,margin_right:200"
+            id="2"/>
+        <View
+            attrib="width:65,height:65,align_parent_bottom:true,align_parent_right:true,margin_bottom:10,margin_right:300"
+            id="3"/>
+    </Preset>
+    <Preset id="28" title="Five">
+        <View
+            attrib="width:110,height:110,align_parent_bottom:true,align_parent_start:true,margin_bottom:21,margin_left:100,margin_start:22"
+            id="0"/>
+        <View
+            attrib="width:75,height:75,align_parent_bottom:true,align_parent_right:true,margin_left:100"
+            id="1"/>
+        <View
+            attrib="width:85,height:85,align_parent_start:true,align_parent_top:true"
+            id="2"/>
+    </Preset>
+    <Preset id="29" title="Five">
+        <View
+            attrib="width:110,height:110,align_parent_bottom:true,align_parent_start:true,margin_bottom:21,margin_left:100,margin_start:22"
+            id="0"/>
+
+        <View
+            attrib="width:100,height:100,center_horizontal:true,center_vertical:true"
+            id="1"/>
+        <View
+            attrib="width:85,height:85,align_parent_start:true,align_parent_top:true"
+            id="2"/>
+    </Preset>
+    <Preset id="30" title="Five">
+        <View
+            attrib="width:80,height:80,align_parent_right:true,align_parent_top:true,margin_left:100,margin_right:38,margin_top:30"
+            id="0"/>
+        <View
+            attrib="width:75,height:75,alignParentLeft:true,align_parent_top:true,margin_left:130,margin_top:20"
+            id="1"/>
+        <View
+            attrib="width:60,height:60,align_parent_bottom:true,align_parent_right:true,margin_bottom:200,margin_right:200"
+            id="2"/>
+        <View
+            attrib="width:65,height:65,align_parent_bottom:true,align_parent_right:true,margin_bottom:10,margin_right:300"
+            id="3"/>
+    </Preset>
+    <Preset id="31" title="Five">
+        <View
+            attrib="width:80,height:80,align_parent_right:true,align_parent_top:true,margin_left:100,margin_right:38,margin_top:30"
+            id="0"/>
+        <View
+            attrib="width:75,height:75,alignParentLeft:true,align_parent_top:true,margin_left:130,margin_top:20"
+            id="1"/>
+        <View
+            attrib="width:60,height:60,align_parent_bottom:true,align_parent_right:true,margin_bottom:200,margin_right:200"
+            id="2"/>
+        <View
+            attrib="width:65,height:65,align_parent_bottom:true,align_parent_right:true,margin_bottom:10,margin_right:300"
+            id="3"/>
+        <View
+            attrib="width:85,height:85,align_parent_start:true,align_parent_top:true"
+            id="4"/>
+    </Preset>
+    <Preset id="32" title="Five">
+        <View
+            attrib="width:80,height:80,align_parent_right:true,align_parent_top:true,margin_left:100,margin_right:38,margin_top:30"
+            id="0"/>
+        <View
+            attrib="width:75,height:75,alignParentLeft:true,align_parent_top:true,margin_left:130,margin_top:20"
+            id="1"/>
+        <View
+            attrib="width:65,height:65,align_parent_bottom:true,align_parent_right:true,margin_bottom:10,margin_right:300"
+            id="2"/>
+    </Preset>
+    <Preset id="33" title="Five">
+        <View
+            attrib="width:75,height:75,alignParentLeft:true,align_parent_top:true,margin_left:130,margin_top:20"
+            id="0"/>
+        <View
+            attrib="width:75,height:75,align_parent_bottom:true,align_parent_right:true,margin_left:100"
+            id="1"/>
+        <View
+            attrib="width:60,height:60,align_parent_bottom:true,align_parent_right:true,margin_bottom:200,margin_right:200"
+            id="2"/>
+        <View
+            attrib="width:65,height:65,align_parent_bottom:true,align_parent_right:true,margin_bottom:10,margin_right:300"
+            id="3"/>
+        <View
+            attrib="width:85,height:85,align_parent_start:true,align_parent_top:true"
+            id="4"/>
+    </Preset>
+    <Preset id="34" title="Five">
+        <View
+            attrib="width:110,height:110,align_parent_bottom:true,align_parent_start:true,margin_bottom:21,margin_left:100,margin_start:22"
+            id="0"/>
+        <View
+            attrib="width:80,height:80,align_parent_right:true,align_parent_top:true,margin_left:100,margin_right:38,margin_top:30"
+            id="1"/>
+        <View
+            attrib="width:75,height:75,alignParentLeft:true,align_parent_top:true,margin_left:130,margin_top:20"
+            id="2"/>
+        <View
+            attrib="width:75,height:75,align_parent_bottom:true,align_parent_right:true,margin_left:100"
+            id="3"/>
+    </Preset>
+
+</Presets>

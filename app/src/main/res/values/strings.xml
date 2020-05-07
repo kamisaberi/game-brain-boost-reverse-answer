@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">False\nTrue</string>
+    <string name="company_name">PARS VEDA</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen_test">FullscreenTestActivity</string>
+
+
+
+</resources>

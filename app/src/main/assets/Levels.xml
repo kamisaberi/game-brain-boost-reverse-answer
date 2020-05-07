@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Levels>
+    <Level id="0" part_count="3" preset_shapes_count="3" size_var="5"/>
+    <Level id="0" part_count="8" preset_shapes_count="4" size_var="5"/>
+    <Level id="1" part_count="15" preset_shapes_count="4,5" size_var="8"/>
+    <Level id="2" part_count="25" preset_shapes_count="5,6" size_var="10"/>
+    <Level id="3" part_count="45" preset_shapes_count="6,7" size_var="12"/>
+    <Level id="4" part_count="75" preset_shapes_count="7,8" size_var="15"/>
+    <Level id="4" part_count="150" preset_shapes_count="8,9,10" size_var="15"/>
+</Levels>

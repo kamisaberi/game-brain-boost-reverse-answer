@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Questions>
+    <!-- Enter Correct Answer Here - Yes:1 No:0  -->
+    <Question answer="1" id="0" text="Fire is Hot ?"/>
+    <Question answer="1" id="1" text="Capital Of USA is Washington ?"/>
+    <Question answer="0" id="2" text="India In Europe ?"/>
+    <Question answer="0" id="3" text="Spain In Asia ?"/>
+    <Question answer="0" id="4" text="Day Is Dark ?"/>
+    <Question answer="1" id="5" text="Sony Is A Japanese Brand ? "/>
+    <Question answer="1" id="6" text="Dog Has Hair ?"/>
+    <Question answer="0" id="7" text="Cat Is Bird ?"/>
+    <Question answer="1" id="1" text="Capital of Germany is Berlin ?"/>
+    <Question answer="1" id="0" text="Ice is Hot ?"/>
+    <Question answer="0" id="0" text="Canada Is The Biggest Country ?"/>
+    <Question answer="1" id="1" text="Ice is cold ?"/>
+    <Question answer="1" id="1" text="Water Is Liquid ?"/>
+    <Question answer="1" id="1" text="Sun Is Hot ?"/>
+    <Question answer="0" id="1" text="Third Month Of Year Is April ?"/>
+    <Question answer="0" id="1" text="You use chalk to write on a whiteboard."/>
+    <Question answer="1" id="1" text="There are 26 alphabet in English language."/>
+    <Question answer="1" id="1" text="You sharp a pencil with a pencil sharpener."/>
+    <Question answer="0" id="1" text="When the weather is hot, it can be around -10 degrees."/>
+    <Question answer="1" id="1" text="Your uncle is  brother of  your mother."/>
+    <Question answer="0" id="1" text="A bald man has alot of hair."/>
+    <Question answer="1" id="1" text="You can dry your wet hair with hairdryer."/>
+    <Question answer="0" id="1" text="Your niece is your brother's bson."/>
+    <Question answer="0" id="1" text="A single mother has a husband."/>
+    <Question answer="1" id="1" text="People usually go to sleep at nights."/>
+    <Question answer="0" id="1" text="When a person has fever her/his body is cold."/>
+    <Question answer="1" id="1" text="You get your mail in mailbox or on the net."/>
+    <Question answer="1" id="1" text="A dishwasher can wash the dishes."/>
+    <Question answer="0" id="1" text="Cheese is a vegetable."/>
+    <Question answer="1" id="1" text="Papaya is a fruit."/>
+    <Question answer="1" id="1" text="Chili peppers are vegetable."/>
+    <Question answer="0" id="1" text="Lobster is a kind of poultry."/>
+    <Question answer="1" id="1" text="Ice-cream will melt in hot weather."/>
+    <Question answer="1" id="1" text="You can open the canned food with can opener."/>
+    <Question answer="1" id="1" text="Sky is blue."/>
+    <Question answer="1" id="1" text="Rose is a flower."/>
+    <Question answer="1" id="1" text="Night is dark."/>
+    <Question answer="0" id="1" text="Day is dark."/>
+    <Question answer="0" id="1" text="Sun is cold."/>
+    <Question answer="1" id="1" text="A table has four legs."/>
+    <Question answer="0" id="1" text="The main room in a house is restroom."/>
+    <Question answer="0" id="1" text="Draculas drink apple juice."/>
+    <Question answer="1" id="1" text="Polar bears live in North."/>
+    <Question answer="0" id="1" text="Camels can't live along time without water."/>
+    <Question answer="0" id="1" text="Cactus is an animal."/>
+    <Question answer="1" id="1" text="Fish live in water."/>
+    <Question answer="1" id="1" text="Firefighters work with fire."/>
+    <Question answer="1" id="1" text="There are alot of books in a bookstore."/>
+    <Question answer="0" id="1" text="A triangle has four sides."/>
+    <Question answer="1" id="1" text="When the weather is  a bit cold you can use a sweater."/>
+    <Question answer="1" id="1" text="Pregnant women use maternity dress."/>
+    <Question answer="1" id="1" text="In summer people can use sandals."/>
+    <Question answer="0" id="1" text="We use our nose to taste food "/>
+    <Question answer="0" id="1" text="In a suunny day we should wear a raincoat "/>
+    <Question answer="1" id="1" text="Coffee is bitter "/>
+    <Question answer="0" id="1" text="People go to library to buy books "/>
+    <Question answer="0" id="1" text="A police officer works in hospital "/>
+    <Question answer="1" id="1" text="Usually a five star hotel's bill is high "/>
+    <Question answer="1" id="1" text="A doctor can go to a restaurant "/>
+    <Question answer="0" id="1" text="People go to movie theaters to wash their clothes "/>
+    <Question answer="0" id="1" text="Yoghurt is blue "/>
+    <Question answer="0" id="1" text="You can buy books in all supermarkets "/>
+    <Question answer="0" id="1" text="There are many pictures of animals in an atlas. "/>
+    <Question answer="1" id="1"
+              text="Before getting driver's license, you have to have a vision exam "/>
+    <Question answer="1" id="1" text="The president of USA live in white house "/>
+    <Question answer="0" id="1" text="In a flood, there's a lot of snow "/>
+    <Question answer="0" id="1" text="A lawyer works in coffee shop "/>
+    <Question answer="1" id="1" text="A baker bakes bread "/>
+    <Question answer="0" id="1" text="A carpenter works with carpets "/>
+    <Question answer="0" id="1" text="Babysitters take care of old people "/>
+    <Question answer="1" id="1" text="Actors play in movies "/>
+    <Question answer="0" id="1" text="Nurses work with musicians at hospitals "/>
+    <Question answer="0" id="1" text="It is important to wear safty boots when you are a nurse "/>
+    <Question answer="0" id="1" text="You go to high school before primary school "/>
+
+    <Question answer="0" id="1" text="The step father of your mother is your grandmother."/>
+    <Question answer="0" id="1" text="In a rainy day, the sky is usually blue."/>
+    <Question answer="1" id="1" text="Snow can burn the skin."/>
+    <Question answer="0" id="1" text="The color of snow is yellow."/>
+    <Question answer="1" id="1" text="Color of sky is blue because of reflexes of water on earth."/>
+    <Question answer="0" id="1" text="There are four right angle in a circle."/>
+    <Question answer="1" id="1" text="A rectangle has four sides."/>
+    <Question answer="0" id="1" text="We use microscopes in football."/>
+    <Question answer="1" id="1" text="An ice cube will melt next to the heater."/>
+    <Question answer="1" id="1" text="A keyboard is a hardware of a computer."/>
+    <Question answer="0" id="1" text="You can see softwares in the computer."/>
+    <Question answer="1" id="1" text="Asia is the largest continent."/>
+    <Question answer="0" id="1" text="Europe is the largest continent."/>
+    <Question answer="0" id="1" text="China is a country of North America."/>
+    <Question answer="1" id="1" text="Peru is a country of south America."/>
+    <Question answer="0" id="1" text="Sewden is in Africa."/>
+    <Question answer="0" id="1" text="Canada is in Australia."/>
+    <Question answer="1" id="1" text="Earth is the third planet."/>
+    <Question answer="0" id="1" text="Mars is the first planet."/>
+    <Question answer="0" id="1" text="You can see the full moon every nights."/>
+    <Question answer="1" id="1" text="An astronaut will go to space."/>
+    <Question answer="0" id="1" text="There are five planets in the solar system."/>
+    <Question answer="0" id="1" text="All the birds can fly."/>
+    <Question answer="0" id="1" text="Cactus don't have any thorn."/>
+    <Question answer="1" id="1" text="Shark is a wild animal."/>
+    <Question answer="0" id="1" text="Sea lions live in desert."/>
+    <Question answer="0" id="1" text="The fastest animal is turtle."/>
+    <Question answer="0" id="1" text="A snake is faster than a lion."/>
+    <Question answer="1" id="1" text="Dolphins love humans."/>
+    <Question answer="1" id="1" text="Caterpillars turn to butterfly."/>
+    <Question answer="1" id="1" text="Spiders eats flys."/>
+    <Question answer="0" id="1" text="Donkey is a pet."/>
+    <Question answer="1" id="1" text="Puppy is a pet."/>
+    <Question answer="0" id="1" text="Grasshopper is a bird."/>
+    <Question answer="1" id="1" text="Goose is a bird."/>
+    <Question answer="1" id="1" text="Rooster is a farm animal."/>
+    <Question answer="1" id="1" text="Moose is a mamal."/>
+    <Question answer="0" id="1" text="Koala is a mamal."/>
+    <Question answer="1" id="1" text="A kangaroo has pouch."/>
+    <Question answer="0" id="1" text="Deer has  paw."/>
+    <Question answer="1" id="1" text="Cats has whiskers."/>
+    <Question answer="1" id="1" text="Elephant  has trunk."/>
+    <Question answer="0" id="1" text="Panda has pouch."/>
+    <Question answer="0" id="1" text="A buffalo has hump."/>
+    <Question answer="1" id="1" text="A camel has hump."/>
+    <Question answer="1" id="1" text="Bears have four paws."/>
+    <Question answer="1" id="1" text="Elephant has two tusks."/>
+    <Question answer="0" id="1" text="Bats can not fly."/>
+    <Question answer="1" id="1" text="Zebra is black and white."/>
+    <Question answer="0" id="1" text="Koalas are white."/>
+    <Question answer="0" id="1" text="Big cities in the world don't have air pollution."/>
+    <Question answer="1" id="1" text="There are animals in the zoo."/>
+    <Question answer="0" id="1" text="You can play football in the tennis court."/>
+    <Question answer="1" id="1" text="There are some slides in the park."/>
+    <Question answer="0" id="1" text="Adults use tricycle."/>
+    <Question answer="0" id="1" text="You should use life vest in desert."/>
+    <Question answer="1" id="1" text="There are six palyers in a volleyball team."/>
+    <Question answer="0" id="1" text="Tennis is a team sport."/>
+    <Question answer="0" id="1" text="Fans of a team hate that team."/>
+    <Question answer="1" id="1" text="Players in badminton use rocket."/>
+    <Question answer="1" id="1" text="Bowling is a individual sports."/>
+    <Question answer="1" id="1" text="Baseball player use catcher mask."/>
+    <Question answer="0" id="1" text="In ski you have ball."/>
+    <Question answer="0" id="1" text="Basketball players use bat."/>
+    <Question answer="0" id="1" text="Volleyball is bigger than basketball."/>
+    <Question answer="0" id="1" text="There are 14 peices in chess."/>
+    <Question answer="1" id="1" text="Singers use microphone to sing."/>
+    <Question answer="1" id="1" text="Hip hop is a type of music."/>
+    <Question answer="0" id="1" text="Soap opera is a type of music."/>
+    <Question answer="1" id="1" text="News is a TV program."/>
+    <Question answer="0" id="1" text="Western is a TV program. "/>
+    <Question answer="1" id="1" text="Sitcom is a TV program."/>
+    <Question answer="1" id="1" text="Tragedy is a type of movie."/>
+    <Question answer="1" id="1" text="Violin is a musical strings instruments."/>
+    <Question answer="1" id="1" text="Trumpet and French horn are similar."/>
+    <Question answer="0" id="1" text="Piano and flute are similar."/>
+    <Question answer="0" id="1" text="People wear a horor custume in a wedding party."/>
+    <Question answer="0" id="1" text="In a birthday party you will hide your present."/>
+    <Question answer="0" id="1" text="Table Tennis is exactly like badminton."/>
+    <Question answer="0" id="1" text="You play water polo in a field."/>
+    <Question answer="0" id="1" text="Manatees like cold water."/>
+    <Question answer="1" id="1"
+              text="Seal pups triple their weight in 12 days with their mother milk."/>
+    <Question answer="0" id="1" text="A snowy owl eats 3 to 7 rodents per day."/>
+    <Question answer="0" id="1" text="Babies fear from wild animals from the beginnig of life."/>
+    <Question answer="0" id="1" text="Babies have less taste buds than adults."/>
+    <Question answer="1" id="1" text="Each second some people born and die in the world."/>
+    <Question answer="1" id="1" text="A six year old normal baby can walk."/>
+    <Question answer="0" id="1" text="The word toddler refers to humans from 3 to 5 years old."/>
+    <Question answer="1" id="1" text="A pregnant woman has baby inside."/>
+    <Question answer="0" id="1" text="A blind person can't walk."/>
+    <Question answer="1" id="1" text="You get a haircut in a salon."/>
+    <Question answer="1" id="1" text="Your grand grandmother is your mother's grandmother."/>
+    <Question answer="0" id="1" text="The lower part of a house that is under ground is roof."/>
+    <Question answer="0" id="1" text="You put your clothes in a cabinets."/>
+    <Question answer="1" id="1" text="The garage is the place that you park your car."/>
+    <Question answer="1" id="1" text="Nursing homes are for old people."/>
+    <Question answer="0" id="1" text="Dorm and nursing home are the same."/>
+    <Question answer="0" id="1" text="A village is bigger than a city."/>
+    <Question answer="0" id="1" text="You cut vegetables with spoons."/>
+    <Question answer="1" id="1" text="We use scales to weight ourselves."/>
+    <Question answer="0" id="1" text="Usually fuse boxes are in the bedroom."/>
+    <Question answer="1" id="1" text="Plum is a fruit."/>
+    <Question answer="0" id="1" text="Ripe banana is green."/>
+    <Question answer="1" id="1" text="You make omelet with egg."/>
+    <Question answer="0" id="1" text="Coffee is red."/>
+    <Question answer="0" id="1" text="A vanilla cake make of chocolate."/>
+    <Question answer="1" id="1" text="You go to a concert to listen to a live music."/>
+    <Question answer="0" id="1" text="Men wear athletic shoes with formal clothes."/>
+    <Question answer="0" id="1" text="You can wear swimsuit in rainy day."/>
+    <Question answer="1" id="1" text="Earmuffs protect you ear from cold weather."/>
+    <Question answer="0" id="1" text="Road workers have to wear mask."/>
+    <Question answer="1" id="1" text="Road workers have to wear hi-visibility safety vest."/>
+    <Question answer="1" id="1" text="A security guard has a badge."/>
+    <Question answer="0" id="1" text="Medical technicians don't have any workplace clothes."/>
+    <Question answer="1" id="1" text="You can sew a cloth with sewing machine."/>
+    <Question answer="1" id="1" text="Usually belts has a buckle."/>
+    <Question answer="0" id="1" text="The skin of animals calls  nylon."/>
+    <Question answer="0" id="1" text="You cut the fabric with needle."/>
+    <Question answer="0" id="1" text="A wrinkled shirt is ready to wear."/>
+    <Question answer="0" id="1" text="You load the washing machine with clean cloth."/>
+    <Question answer="1" id="1" text="You hang up the clothes  after ironing."/>
+    <Question answer="0" id="1" text="You breath with your kidney."/>
+    <Question answer="0" id="1" text="Muscles are harder than bones."/>
+    <Question answer="1" id="1" text="Usually women use lipsticks."/>
+    <Question answer="0" id="1" text="To clean your hair,  you use toothbrush."/>
+    <Question answer="0" id="1" text="People with heart problem use inhailer."/>
+    <Question answer="1" id="1" text="You can find tablets in a drugstores."/>
+    <Question answer="0" id="1" text="You shouldn't see a doctor when you feel pain."/>
+    <Question answer="1" id="1" text="In an gard accident, you have to call ambulance."/>
+    <Question answer="0" id="1" text="Sociologists can fill a cavity."/>
+    <Question answer="1" id="1" text="Yoga is good for health."/>
+    <Question answer="0" id="1" text="A bank is a place where people post their letters."/>
+    <Question answer="1" id="1" text="People go to gym to practice."/>
+    <Question answer="0" id="1" text="You can find any book on a barbershop."/>
+    <Question answer="0" id="1" text="The clothes of navy and army are the same."/>
+    <Question answer="1" id="1" text="Earthquake is a natural disaster."/>
+    <Question answer="1" id="1" text="There are a lot of snow in avalanche."/>
+    <Question answer="0" id="1" text="Flashlights work with electricity."/>
+    <Question answer="0" id="1" text="Florists work with computers."/>
+    <Question answer="1" id="1" text="A server in a restaurant see a lot of people in a day."/>
+
+</Questions>

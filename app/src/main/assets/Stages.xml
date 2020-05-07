@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Stages>
+    <Stage chances="1" id="0" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="1" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="2" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="3" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="4" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="5" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="6" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="7" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="8" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="9" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="10" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="11" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+    <Stage chances="1" id="12" parts_count="3" target="0" target_type="1" title="One One" type="1">
+        <Parts>
+            <Part id="0" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+            <Part id="1" preset_id="0"/>
+        </Parts>
+    </Stage>
+
+</Stages>

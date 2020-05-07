@@ -1,0 +1,65 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.parsveda.brainboost.reverseanswer">
+
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18">
+    </uses-permission>
+
+
+    <application
+        android:name="com.parsveda.brainboost.reverseanswer.application.MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- <meta-data -->
+        <!-- android:title="com.google.android.gms.games.APP_ID" -->
+        <!-- android:value="@string/app_id"/> -->
+        <!-- <meta-data -->
+        <!-- android:title="com.google.android.gms.version" -->
+        <!-- android:value="@integer/google_play_services_version"/> -->
+
+        <activity
+            android:name="com.parsveda.brainboost.reverseanswer.activity.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:title="android.intent.action.MAIN"/> -->
+
+
+            <!-- <category android:title="android.intent.category.LAUNCHER"/> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name="com.parsveda.brainboost.reverseanswer.activity.MenuActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:title="android.intent.action.MAIN"/> -->
+            <!-- <category android:title="android.intent.category.LAUNCHER"/> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name="com.parsveda.brainboost.reverseanswer.activity.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.parsveda.brainboost.reverseanswer.activity.ResultActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
+
+        </activity>
+    </application>
+
+</manifest>

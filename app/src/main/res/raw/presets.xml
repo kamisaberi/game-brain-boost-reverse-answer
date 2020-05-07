@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Presets>
+    <Preset id="0" title="linearFive">
+        <Views>
+            <View id="0" attrib="align_parent_start:true,align_parent_top:true,width:100,height:100" />
+            <View id="1" attrib="align_parent_top:true,margin_start:12,margin_top:23,to_end_of:1,width:100,height:100" />
+            <View id="2" attrib="align_bottom:1,center_horizontal:true,width:100,height:100" />
+            <View id="3" attrib="align_parent_bottom:true,align_start:2,margin_bottom:23,width:100,height:100" />
+            <View id="4" attrib="align_parent_end:true,center_vertical:true,margin_end:45,width:100,height:100" />
+        </Views>
+    </Preset>
+
+</Presets>
